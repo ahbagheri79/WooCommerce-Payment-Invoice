@@ -15,4 +15,4 @@ Now, your customers can access their respective invoices using the following lin
 - For privacy protection, if the invoice doesn't exist, users will encounter a 404 error.
 - If the requested invoice doesn't belong to the current user, a 403 error will be encountered.
 
-![Invoice Image](/WooCommerce-Payment-Invoice/blob/main/screencapture-roxweb-test-dashboard-invoice-2024-03-22-15_24_01.png)
+![Invoice Image](screencapture-roxweb-test-dashboard-invoice-2024-03-22-15_24_01.png)
