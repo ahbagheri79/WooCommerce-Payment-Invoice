@@ -9,7 +9,7 @@
 
 # Installation Instructions / راهنمای نصب:
 
-<details>
+<details open>
 <summary id="english">English</summary>
 
 1. First, create a page in WordPress with any desired name, preferably "invoice".
@@ -39,7 +39,7 @@ Now, your customers can access their respective invoices using the following lin
 
 ## Note / توجه:
 
-<details>
+<details open>
 <summary id="english">English</summary>
 
 - For privacy protection, if the invoice doesn't exist, users will encounter a 404 error.
