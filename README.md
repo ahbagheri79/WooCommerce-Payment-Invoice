@@ -6,7 +6,7 @@
 4. That's it!
 
 Now, your customers can access their respective invoices using the following link:
-
+- Sample.domain/invoice?id=order_id
 
 
 
