@@ -54,4 +54,4 @@ Now, your customers can access their respective invoices using the following lin
 - اگر فاکتور درخواستی به کاربر فعلی تعلق نداشته باشد، با یک خطای 403 مواجه خواهند شد.
 
 </details>
-![Invoice Image](screencapture-roxweb-test-dashboard-invoice-2024-03-22-15_24_01.png)
+![Invoice Image](invoice.png)
